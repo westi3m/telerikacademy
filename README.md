@@ -1,4 +1,4 @@
-telerikacademy
+Telerik Academy
 ==============
 
-My work at telerik academy
+My work at Telerik Academy
